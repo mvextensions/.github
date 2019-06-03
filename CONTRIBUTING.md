@@ -1,5 +1,5 @@
 # Contributing to MV Extensions
-First off, _thank you_! We're extremely flattered, excited and honored that you're interested in contributing to the MultiValue community! As your first order of business, we kindly request that you review the [Code of Conduct](https://github.com/mvextensions/.github/blob/master/CODE_OF_CONDUCT.md) that governs these projects and its contributors.
+First off, _thank you_! We're extremely flattered, excited and honored that you're interested in contributing to the MultiValue community! As your first order of business, we kindly request that you review the [Code of Conduct](https://github.com/mvextensions/.github/blob/master/CODE_OF_CONDUCT.md) that governs these projects and their contributors.
 
 ## Ways to Help
 There are many ways to help out! Here are just a few:
